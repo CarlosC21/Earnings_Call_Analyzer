@@ -7,7 +7,7 @@ transformers
 torch
 spacy
 nltk
-bertopic
+# bertopic
 keybert
 scikit-learn
 plotly
