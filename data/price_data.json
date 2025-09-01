@@ -1,117 +1,117 @@
 {
-    "NOC": {
+    "AAL": {
         "summary": {
-            "earnings_date": "2025-07-22",
+            "earnings_date": "2025-07-24",
             "largest_gain": {
                 "date": "2025-07-22",
-                "percent": 9.41
+                "percent": 1.46
             },
             "largest_drop": {
-                "date": "2025-07-18",
-                "percent": -0.91
+                "date": "2025-07-24",
+                "percent": -9.62
             },
-            "earnings_day_change": 9.41
+            "earnings_day_change": -9.62
         },
         "data": [
             {
-                "Date": "2025-07-15",
-                "Adj Close": 516.82,
-                "Close": 516.82,
-                "High": 523.46,
-                "Low": 516.15,
-                "Open": 519.4,
-                "Volume": "539,500",
+                "Date": "2025-07-17",
+                "Adj Close": 12.45,
+                "Close": 12.45,
+                "High": 12.95,
+                "Low": 12.35,
+                "Open": 12.6,
+                "Volume": "88,948,400",
                 "% Change": NaN
             },
             {
-                "Date": "2025-07-16",
-                "Adj Close": 519.7,
-                "Close": 519.7,
-                "High": 520.78,
-                "Low": 514.06,
-                "Open": 516.84,
-                "Volume": "483,500",
-                "% Change": 0.56
-            },
-            {
-                "Date": "2025-07-17",
-                "Adj Close": 523.83,
-                "Close": 523.83,
-                "High": 525.52,
-                "Low": 518.64,
-                "Open": 519.0,
-                "Volume": "620,900",
-                "% Change": 0.79
-            },
-            {
                 "Date": "2025-07-18",
-                "Adj Close": 519.04,
-                "Close": 519.04,
-                "High": 528.27,
-                "Low": 515.64,
-                "Open": 523.35,
-                "Volume": "873,900",
-                "% Change": -0.91
+                "Adj Close": 12.51,
+                "Close": 12.51,
+                "High": 12.59,
+                "Low": 12.2,
+                "Open": 12.52,
+                "Volume": "70,423,500",
+                "% Change": 0.48
             },
             {
                 "Date": "2025-07-21",
-                "Adj Close": 515.29,
-                "Close": 515.29,
-                "High": 523.98,
-                "Low": 514.39,
-                "Open": 518.31,
-                "Volume": "832,500",
-                "% Change": -0.72
+                "Adj Close": 12.32,
+                "Close": 12.32,
+                "High": 12.63,
+                "Low": 12.31,
+                "Open": 12.58,
+                "Volume": "50,841,000",
+                "% Change": -1.52
             },
             {
                 "Date": "2025-07-22",
-                "Adj Close": 563.79,
-                "Close": 563.79,
-                "High": 567.12,
-                "Low": 535.52,
-                "Open": 536.01,
-                "Volume": "2,395,100",
-                "% Change": 9.41
+                "Adj Close": 12.5,
+                "Close": 12.5,
+                "High": 12.55,
+                "Low": 12.18,
+                "Open": 12.33,
+                "Volume": "54,783,200",
+                "% Change": 1.46
             },
             {
                 "Date": "2025-07-23",
-                "Adj Close": 568.5,
-                "Close": 568.5,
-                "High": 568.67,
-                "Low": 551.8,
-                "Open": 562.35,
-                "Volume": "1,250,900",
-                "% Change": 0.84
+                "Adj Close": 12.68,
+                "Close": 12.68,
+                "High": 12.79,
+                "Low": 12.52,
+                "Open": 12.55,
+                "Volume": "75,685,400",
+                "% Change": 1.44
             },
             {
                 "Date": "2025-07-24",
-                "Adj Close": 568.48,
-                "Close": 568.48,
-                "High": 576.86,
-                "Low": 566.58,
-                "Open": 568.25,
-                "Volume": "974,800",
-                "% Change": -0.0
+                "Adj Close": 11.46,
+                "Close": 11.46,
+                "High": 11.84,
+                "Low": 11.33,
+                "Open": 11.79,
+                "Volume": "120,265,700",
+                "% Change": -9.62
             },
             {
                 "Date": "2025-07-25",
-                "Adj Close": 569.74,
-                "Close": 569.74,
-                "High": 570.16,
-                "Low": 563.3,
-                "Open": 568.0,
-                "Volume": "635,700",
-                "% Change": 0.22
+                "Adj Close": 11.5,
+                "Close": 11.5,
+                "High": 11.7,
+                "Low": 11.46,
+                "Open": 11.55,
+                "Volume": "63,485,400",
+                "% Change": 0.35
             },
             {
                 "Date": "2025-07-28",
-                "Adj Close": 568.62,
-                "Close": 568.62,
-                "High": 570.0,
-                "Low": 563.64,
-                "Open": 569.24,
-                "Volume": "679,600",
-                "% Change": -0.2
+                "Adj Close": 11.58,
+                "Close": 11.58,
+                "High": 11.63,
+                "Low": 11.4,
+                "Open": 11.5,
+                "Volume": "70,184,300",
+                "% Change": 0.7
+            },
+            {
+                "Date": "2025-07-29",
+                "Adj Close": 11.42,
+                "Close": 11.42,
+                "High": 11.64,
+                "Low": 11.38,
+                "Open": 11.61,
+                "Volume": "71,092,100",
+                "% Change": -1.38
+            },
+            {
+                "Date": "2025-07-30",
+                "Adj Close": 11.51,
+                "Close": 11.51,
+                "High": 11.63,
+                "Low": 11.31,
+                "Open": 11.43,
+                "Volume": "73,201,200",
+                "% Change": 0.79
             }
         ]
     }
