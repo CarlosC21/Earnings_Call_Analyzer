@@ -1,0 +1,118 @@
+{
+    "NOC": {
+        "summary": {
+            "earnings_date": "2025-07-22",
+            "largest_gain": {
+                "date": "2025-07-22",
+                "percent": 9.41
+            },
+            "largest_drop": {
+                "date": "2025-07-18",
+                "percent": -0.91
+            },
+            "earnings_day_change": 9.41
+        },
+        "data": [
+            {
+                "Date": "2025-07-15",
+                "Adj Close": 516.82,
+                "Close": 516.82,
+                "High": 523.46,
+                "Low": 516.15,
+                "Open": 519.4,
+                "Volume": "539,500",
+                "% Change": NaN
+            },
+            {
+                "Date": "2025-07-16",
+                "Adj Close": 519.7,
+                "Close": 519.7,
+                "High": 520.78,
+                "Low": 514.06,
+                "Open": 516.84,
+                "Volume": "483,500",
+                "% Change": 0.56
+            },
+            {
+                "Date": "2025-07-17",
+                "Adj Close": 523.83,
+                "Close": 523.83,
+                "High": 525.52,
+                "Low": 518.64,
+                "Open": 519.0,
+                "Volume": "620,900",
+                "% Change": 0.79
+            },
+            {
+                "Date": "2025-07-18",
+                "Adj Close": 519.04,
+                "Close": 519.04,
+                "High": 528.27,
+                "Low": 515.64,
+                "Open": 523.35,
+                "Volume": "873,900",
+                "% Change": -0.91
+            },
+            {
+                "Date": "2025-07-21",
+                "Adj Close": 515.29,
+                "Close": 515.29,
+                "High": 523.98,
+                "Low": 514.39,
+                "Open": 518.31,
+                "Volume": "832,500",
+                "% Change": -0.72
+            },
+            {
+                "Date": "2025-07-22",
+                "Adj Close": 563.79,
+                "Close": 563.79,
+                "High": 567.12,
+                "Low": 535.52,
+                "Open": 536.01,
+                "Volume": "2,395,100",
+                "% Change": 9.41
+            },
+            {
+                "Date": "2025-07-23",
+                "Adj Close": 568.5,
+                "Close": 568.5,
+                "High": 568.67,
+                "Low": 551.8,
+                "Open": 562.35,
+                "Volume": "1,250,900",
+                "% Change": 0.84
+            },
+            {
+                "Date": "2025-07-24",
+                "Adj Close": 568.48,
+                "Close": 568.48,
+                "High": 576.86,
+                "Low": 566.58,
+                "Open": 568.25,
+                "Volume": "974,800",
+                "% Change": -0.0
+            },
+            {
+                "Date": "2025-07-25",
+                "Adj Close": 569.74,
+                "Close": 569.74,
+                "High": 570.16,
+                "Low": 563.3,
+                "Open": 568.0,
+                "Volume": "635,700",
+                "% Change": 0.22
+            },
+            {
+                "Date": "2025-07-28",
+                "Adj Close": 568.62,
+                "Close": 568.62,
+                "High": 570.0,
+                "Low": 563.64,
+                "Open": 569.24,
+                "Volume": "679,600",
+                "% Change": -0.2
+            }
+        ]
+    }
+}

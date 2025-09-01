@@ -1,0 +1,14 @@
+pandas
+numpy
+yfinance
+beautifulsoup4
+requests
+transformers
+torch
+spacy
+nltk
+# bertopic
+keybert
+scikit-learn
+plotly
+streamlit

@@ -1,0 +1,73 @@
+[
+    {
+        "ticker": "TAC",
+        "quarter": "Q2",
+        "year": "2025",
+        "earnings_date": "August 01 2025",
+        "file_name": "Tac_Q2_August_01_2025.txt",
+        "metrics": {
+            "revenue": 349.0,
+            "adjusted_ebitda": 349.0,
+            "free_cash_flow": 177.0,
+            "guidance": [
+                "We are pleased with our second quarter operational and financial performance and remain confident in our ability to meet our 2025 guidance range.",
+                "First, delivering adjusted EBITDA and free cash flow within our 2025 guidance ranges."
+            ],
+            "forward_look": [
+                "We're excited about the data center opportunity in Alberta, both for the meaningful investment it brings to the province, as well as the anticipated increase in load, which we expect will rebalance the current oversupply of generation in the province, an added benefit for our diverse Alberta portfolio.",
+                "We expect to be able to share detailed development plans for Centralia in the coming months as we firm our plan forward for the site.",
+                "Going forward, we expect to continue to optimize our fleet and reduce production in low priced, high supply hours by fulfilling our financial hedges and customer requirements with open market purchases.",
+                "We like the multiples that we see those assets being traded at right now.",
+                "Outside of K3, what kind of normalized capacity factor could we see from the Sundance or Shearnet assets if the market does tighten by 1.2 gigawatts, let's say?",
+                "So we see a lot of value in those attributes."
+            ],
+            "prior_year_mentions": [
+                "Hydro segment adjusted EBITDA increased to $126,000,000 relative to $83,000,000 last year due to higher intercompany sales and emissions credits to the gas segment to fulfill our 2024 GHG obligation as well as higher production and ancillary prices.",
+                "The Energy Transition segment delivered adjusted EBITDA of $19,000,000 a $17,000,000 increase year over year due to higher market optimization benefits and higher availability of our Centralia facility, which had an extended turnaround in the second quarter of last year.",
+                "Energy Marketing adjusted EBITDA decreased by $13,000,000 to $26,000,000 primarily due to comparatively subdued market volatility across North American natural gas and power markets and lower realized settled trades in the quarter compared to last year.",
+                "Corporate adjusted EBITDA was in line with last year at $39,000,000 largely due to increased spending to support our strategic and growth initiatives and the addition of corporate costs related to the acquisition of Heartland.",
+                "Overall, this strong performance generated free cash flow of $177,000,000 in the second quarter, in line with the same period last year."
+            ],
+            "year_over_year_mentions": [
+                "The Energy Transition segment delivered adjusted EBITDA of $19,000,000 a $17,000,000 increase year over year due to higher market optimization benefits and higher availability of our Centralia facility, which had an extended turnaround in the second quarter of last year.",
+                "The decline year over year was primarily due to incremental generation from the addition of new gas, wind and solar supply in the province, as well as benign weather.",
+                "Those were up year over year"
+            ],
+            "compared_to_mentions": [
+                "Energy Marketing adjusted EBITDA decreased by $13,000,000 to $26,000,000 primarily due to comparatively subdued market volatility across North American natural gas and power markets and lower realized settled trades in the quarter compared to last year."
+            ],
+            "raising_mentions": [],
+            "refinance_mentions": [],
+            "production": [
+                "Hydro segment adjusted EBITDA increased to $126,000,000 relative to $83,000,000 last year due to higher intercompany sales and emissions credits to the gas segment to fulfill our 2024 GHG obligation as well as higher production and ancillary prices.",
+                "Despite relatively benign weather in the quarter, which resulted in lower spot power prices, we captured additional margins by fulfilling a portion of our higher price hedges with purchase power when prices were below our variable cost of production, leading to an overall realized price per megawatt hour produced of $111 Looking at the balance of the year, we have approximately 4,300 gigawatt hours of our Alberta generation hedged at an average price of $69 per megawatt hour, well above the current forward curve of $48 per megawatt hour.",
+                "Going forward, we expect to continue to optimize our fleet and reduce production in low priced, high supply hours by fulfilling our financial hedges and customer requirements with open market purchases."
+            ],
+            "outlook": [
+                "We were also pleased with the performance of our contracted fleet, which exceeded our expectations.",
+                "I'm just curious if the timeline has changed in terms of your expectations since the Q1 call.",
+                "It sounds like your timelines have shifted a bit from your initial expectations."
+            ],
+            "demand_mentions": [
+                "Wholesale electricity prices in Ontario are rising, signaling a growing tightness in the supply and demand balance in the province, which sets our fleet up well for recontracting in the next decade.",
+                "The ISO currently expects demand transmission service contracts to be executed in mid September, which will secure each proponent's access to system capacity.",
+                "Do you have, we'll call it enough demand in pocket to go after those as well?"
+            ],
+            "challenge_mentions": []
+        },
+        "earnings_day_change": 3.08,
+        "pre_earnings_change_5d": null,
+        "post_earnings_change_5d": 1.64,
+        "largest_gain": {
+            "date": "2025-08-01",
+            "percent": 2.66
+        },
+        "largest_drop": {
+            "date": "2025-08-05",
+            "percent": -3.59
+        },
+        "volatility_pre_10d": 0.85,
+        "volatility_post_10d": 1.89,
+        "gap_vs_intraday": -3.5
+    }
+]
